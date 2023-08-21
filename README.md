@@ -1,3 +1,6 @@
+# Project from AppBrewery Front End Web Dev Bootcamp - Using and customizing bootstrap components
+
+
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
